@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.div2 {
+	text-align:center;
+	font-weight: bold;
+	font-size: 24px;
+}
+#div2{
+	font-size: 22px;
+}
+strong {
+	color: #F00;
+}
+.Sea {
+	font-size: larger;
+}

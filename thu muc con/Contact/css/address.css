@@ -1,0 +1,51 @@
+.address__container {
+	margin-bottom: 70px;
+	margin-top: 70px;
+}
+.address__info {
+	font-size: 18px;
+  color: #848484;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+}
+.address__list {
+	list-style-type: none;
+	padding-left: 0;
+}
+.address__list li {
+	margin-bottom: 10px;
+}
+.address__list .fa {
+	margin-right: 15px;
+}
+.address__list a {
+	color: #919498;
+	transition: all .2s ease-in-out;
+	text-decoration: none;
+}
+.address__list a:hover {
+	color: #FCC72C;
+}
+.address__input-group {
+	width: 100%;
+}
+.message-input {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+textarea {
+	resize: none;
+}
+.btn-message {
+  background: #FCC72C;
+  color: white;
+  transition: all .2s ease-in-out;
+}
+.btn-message:hover {
+  color: white;
+  font-weight: bold;
+  background: #2D6CDF;
+}
+#map {
+	width: 100%;
+	height: 400px;
+}
