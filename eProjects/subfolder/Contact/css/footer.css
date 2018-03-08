@@ -1,0 +1,32 @@
+.footer__content {
+	background-color: #222831;
+	text-align: center;
+	padding-top: 50px;
+  padding-bottom: 60px;
+  font-size: 15px;
+}
+.footer__link {
+	font-size: 30px;
+	margin-bottom: 15px;
+}
+.footer__link a {
+	font-size: 30px;
+  margin: 15px;
+  color: #919498;
+  transition: 0.5s;
+}
+.footer__link a:hover {
+	color: #FCC72C;
+}
+.footer__text {
+	display: block;
+	color: #919498;
+	margin-bottom: 5px;
+}
+.footer__text a {
+	text-decoration: none;
+	transition: all .2s ease-in-out;
+}
+.footer__text a:hover {
+	color: #FCC72C;
+}

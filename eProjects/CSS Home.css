@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#background{
+	position:absolute;
+	top:0; left:0; width:100%; height:500px;
+	z-index:-1;
+}
+#textbackground{
+	width:100%; height:350px;
+	text-align:center;
+	font-size:85px;
+	font-family:"Lucida Console, Monaco, monospace";
+	margin-top:20px;
+	color:#fff;
+}
+#backgroundFULL{
+	background:url(30014773-solid-blue-background-texture-light-pastel-sky-blue-color-and-faded-old-distressed-texture-design-of-Stock-Photo.jpg);
+}
